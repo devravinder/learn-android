@@ -63,3 +63,16 @@
 
 - [Rahul Pandey](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-)
   - [Code](https://github.com/rpandey1234/AndroidTippy)
+
+- [Jetpack](https://developer.android.com/codelabs/jetpack-compose-basics)
+
+## Note
+
+- Views / Layout can be created in 2 ways
+  1. androidx ( XML )
+     - to create androidx(XML) views project
+       - android studio -> new -> project -> `Empty Views Activity` -> give name & path
+
+  2. jetpack  ( composables ) : modern way
+     - to create jetpack project
+       - android studio -> new -> project -> `Empty Activity` -> give name & path
